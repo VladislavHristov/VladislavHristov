@@ -1,7 +1,4 @@
-![Neon Green Gaming Channel YouTube Banner](https://github.com/VladislavHristov/VladislavHristov/assets/136968279/92dad172-d09b-42c5-92a3-6dd2452c05cd)
-
-
-
+![Automation](https://github.com/VladislavHristov/VladislavHristov/assets/136968279/c2485e20-d417-40d9-b09a-8f0bf0e229dd)
 - 👋 Hi, I’m @VladislavHristov
 - 👀 I’m interested in programming and testing software and apps
 - 🌱 I’m currently learning Automation QA
